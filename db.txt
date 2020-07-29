@@ -1,0 +1,22 @@
+*** car:
+- title:
+- description:
+- contact:
+- model:
+- brand:
+- color:
+- cost per hour:
+- cost per km:
+- support:
+- image:
+
+*** customer information:
+- name:
+- sex: 
+- phone:
+- email:
+- message:
+- starting point:
+- ending point:
+- departure date:
+- date of arrival:
